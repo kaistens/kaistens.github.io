@@ -1,4 +1,17 @@
 User-agent: *
 Allow: /
 
+# Disallow sensitive files and directories
+Disallow: *.DS_Store
+Disallow: /private/
+Disallow: /admin/
+Disallow: /.git/
+
+# Allow all crawlers to access images
+Allow: /images/
+
+# Sitemap location
 Sitemap: https://www.kaistens.de/sitemap.xml
+
+# Crawl-delay for politeness (optional)
+Crawl-delay: 1

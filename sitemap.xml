@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage - Highest Priority -->
+    <url>
+        <loc>https://www.kaistens.de/</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Services Section - High Priority -->
+    <url>
+        <loc>https://www.kaistens.de/#services</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Contact Section - High Priority for Local Business -->
+    <url>
+        <loc>https://www.kaistens.de/#contact</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Gallery Section - Medium Priority -->
+    <url>
+        <loc>https://www.kaistens.de/#gallery</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Events Section - Medium Priority -->
+    <url>
+        <loc>https://www.kaistens.de/#events</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Impressum Section - Required for German Sites -->
+    <url>
+        <loc>https://www.kaistens.de/#impressum</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Service-specific URLs for better targeting -->
+    <!-- These represent deep-link potential for specific services -->
+
+    <!-- Spanferkel Service -->
+    <url>
+        <loc>https://www.kaistens.de/#spanferkel</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Flammlachs Service -->
+    <url>
+        <loc>https://www.kaistens.de/#flammlachs</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- BBQ Catering Service -->
+    <url>
+        <loc>https://www.kaistens.de/#bbq-catering</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Event-specific URLs -->
+    <!-- Hochzeiten (Weddings) -->
+    <url>
+        <loc>https://www.kaistens.de/#hochzeiten</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Geburtstage (Birthdays) -->
+    <url>
+        <loc>https://www.kaistens.de/#geburtstage</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Firmenfeiern (Corporate Events) -->
+    <url>
+        <loc>https://www.kaistens.de/#firmenfeiern</loc>
+        <lastmod>2025-09-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
